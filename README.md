@@ -8,5 +8,6 @@ The design of every part has been given great detail as well as trying to satisf
 ABSTRACT</br></br>
 We picked up the idea of rotating bridge for our project because we wished to construct a dynamic project that had some real-life applications. So, in our project we have displayed the problem that is faced by a stationary bridge and have presented a solution to it.</br>
 The model consists of two rotating bridge halves each supported by a rotating pillar. The rotation mechanism is brought into action by bevel gear mechanism which are in turn rotated manually by a handle attached. Also, it consists of a conveyor belt with a ship to display how upon arrival of a ship with a sufficiently larger height the rotating bridge comes into action. To show the working of the project conveniently we have used a single axle which upon rotation causes both, the movement of the ship and rotation of bridges.</br></br>
-
-
+sdfsdf
+saas
+asd
